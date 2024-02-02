@@ -1,6 +1,4 @@
-# Bank-Customer-Churn-Prediction
-
-![image](https://user-images.githubusercontent.com/58620359/174948746-5dc3418a-8296-4cc8-9561-f8f12ca9a0a4.png)
+![image](https://github.com/vineeth-pydi/Banking-Customer-Churn/assets/124265210/2cb13bc8-76a7-4447-b8e2-7ced2dc88cf1)
 
 ## Problem Statement :
 
